@@ -1,23 +1,23 @@
 export const educationData = [
-    {
-        id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
-    },
-    {
-        id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
-]
+  {
+    id: 1,
+    institution: "Shivaniaa Public School",
+    course: "Senior Secondary Education (10th Class)",
+    startYear: "2010",
+    endYear: "2011",
+  },
+  {
+    id: 2,
+    institution: "Shivaniaa Public School",
+    course: "Higher Secondary Education (12th Class)",
+    startYear: "2012",
+    endYear: "2013",
+  },
+  {
+    id: 3,
+    institution: "Jagannath Institute Of Management Science",
+    course: "Bachelor of Computer Application",
+    startYear: "JULY 2014",
+    endYear: "APRIL 2017",
+  },
+];

@@ -1,14 +1,13 @@
 export const socialsData = {
-  github: "https://github.com/pankaj07",
+  github: "https://github.com/pankajpj07",
   facebook: "https://www.facebook.com/",
-  linkedIn: "https://www.linkedin.com/in",
+  linkedIn: "https://www.linkedin.com/in/pankaj07/",
   instagram: "https://www.instagram.com/",
   codepen: "https://codepen.io/",
-  twitter: "https://twitter.com/",
+  twitter: "https://twitter.com/Pankaj_pj07",
   reddit: "https://www.reddit.com/user/",
-  blogger: "https://www.blogger.com/",
   medium: "https://medium.com/@",
   stackOverflow: "https://stackoverflow.com/users/",
   gitlab: "https://gitlab.com/",
-  youtube: "https://youtube.com/",
+  youtube: "https://www.youtube.com/channel/UCW7EX_bRE0lddd7CGckoxTg",
 };
