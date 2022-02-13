@@ -22,7 +22,7 @@ export const experienceData = [
   },
   {
     id: 4,
-    company: "Goods and Services Tax (Infosys Limited)",
+    company: "AJIO.COM (Jio Platforms Limited)",
     jobtitle: "SDE | Frontend Developer",
     startYear: "AUG 2021",
     endYear: "Present",

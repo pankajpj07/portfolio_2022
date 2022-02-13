@@ -11,7 +11,7 @@ export const projectsData = [
   {
     id: 1,
     projectName: "Netflix Clone",
-    projectDesc: "This project aims to build an UI clone of netflix web app",
+    projectDesc: "This project aims to build a UI clone of netflix web app",
     tags: ["React", "CSS", "JS", "Material Ui"],
     code: "https://github.com/pankajpj07/jainnetflixclone",
     demo: "https://jainnetflixclone.web.app/",
