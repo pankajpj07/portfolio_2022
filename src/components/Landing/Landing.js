@@ -7,7 +7,7 @@ import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
 import { socialsData } from "../../data/socialsData";
-
+import Typewriter from "typewriter-effect";
 import {
   FaTwitter,
   FaLinkedin,
@@ -137,7 +137,23 @@ function Landing() {
           style={{ backgroundColor: theme.secondary }}
         >
           <div className="lcr--content" style={{ color: theme.tertiary }}>
-            <h6>{headerData.title}</h6>
+            {/* <h6>{headerData.title}</h6> */}
+            <h6>
+              <Typewriter
+                options={{
+                  strings: headerData.strings,
+                  autoStart: true,
+                  loop: true,
+                }}
+                onInit={(typewriter) => {
+                  typewriter
+                    .typeString("Web Developer")
+                    .pauseFor(1000)
+                    .deleteAll()
+                    .start();
+                }}
+              />
+            </h6>
             <h1>{headerData.name}</h1>
             <p>{headerData.desciption}</p>
 
