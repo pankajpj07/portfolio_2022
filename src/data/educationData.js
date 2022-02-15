@@ -15,7 +15,7 @@ export const educationData = [
   },
   {
     id: 3,
-    institution: "Jagannath Institute Of Management Science",
+    institution: "JIMS Rohini",
     course: "Bachelor of Computer Application",
     startYear: "JULY 2014",
     endYear: "APRIL 2017",
